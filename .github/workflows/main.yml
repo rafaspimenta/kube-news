@@ -16,6 +16,6 @@ jobs:
           context: ./src
           file: ./src/Dockerfile
           push: true
-          tags:
+          tags: |
             rafaspimenta/kube-news:v1
             rafaspimenta/kube-news:latest          
