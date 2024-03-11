@@ -25,5 +25,5 @@ jobs:
           file: ./src/Dockerfile
           push: true
           tags: |
-            rafaspimenta/kube-news:v1
+            rafaspimenta/kube-news:${{github.run_number}}
             rafaspimenta/kube-news:latest          
