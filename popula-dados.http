@@ -5,7 +5,7 @@ Content-Type: application/json
 {
   "artigos": [
     {
-      "title": "Kubernetes na Nuvem",
+      "title": "Kubernetes na Nuvem 1.0",
       "resumo": "Gerencie contêineres na nuvem.",
       "description": "Saiba como utilizar o Kubernetes para orquestrar contêineres na nuvem, simplificando o gerenciamento de aplicações escaláveis."
     },
